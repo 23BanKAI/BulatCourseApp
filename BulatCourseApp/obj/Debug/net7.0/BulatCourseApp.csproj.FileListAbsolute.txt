@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\bin\Debug\net7.0\BulatCourseApp.exe
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\bin\Debug\net7.0\BulatCourseApp.deps.json
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\bin\Debug\net7.0\BulatCourseApp.runtimeconfig.json
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\bin\Debug\net7.0\BulatCourseApp.dll
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\bin\Debug\net7.0\BulatCourseApp.pdb
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\BulatCourseApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\BulatCourseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\BulatCourseApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\BulatCourseApp.AssemblyInfo.cs
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\BulatCourseApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\BulatCourseApp.dll
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\refint\BulatCourseApp.dll
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\BulatCourseApp.pdb
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\BulatCourseApp.genruntimeconfig.cache
+C:\Users\user\source\repos\BulatCourseApp\BulatCourseApp\obj\Debug\net7.0\ref\BulatCourseApp.dll
